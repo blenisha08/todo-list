@@ -1,30 +1,51 @@
-# To-Do List (Python)
+# To-Do List Project
 
 ## 📌 Description
-This is a simple command-line To-Do List application built using Python.  
-It allows users to manage daily tasks easily.
+This project is a simple To-Do List application with:
+- A command-line version (Python)
+- A web-based version (HTML, CSS, JavaScript)
+
+It helps users manage daily tasks easily.
+
+---
 
 ## 🚀 Features
 - Add tasks
 - View tasks
 - Delete tasks
+- Interactive web interface
+
+---
 
 ## 🛠️ Technologies Used
-- Python
+- Python (CLI version)
+- HTML
+- CSS
+- JavaScript
+
+---
 
 ## ▶️ How to Run
-1. Download the file
-2. Open terminal in the folder
-3. Run:
-   python todo.py
 
-## 📷 Output Example
-1. Add Task
-2. View Tasks
-3. Delete Task
-4. Exit
+### 🔹 Python Version
+Run:
+python todo.py
+
+### 🔹 Web Version
+Open:
+index.html in your browser
+
+---
 
 ## 📁 Project Structure
 todo-list/
  ├── todo.py
+ ├── index.html
+ ├── style.css
+ ├── script.js
  └── README.md
+
+---
+
+## 📷 Output
+Simple and interactive To-Do List for managing tasks.
