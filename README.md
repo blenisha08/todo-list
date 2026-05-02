@@ -40,7 +40,6 @@ index.html in your browser
 ## 📁 Project Structure
 todo-list/
  ├── todo.py
- 
  ├── index.html
  ├── style.css
  ├── script.js
